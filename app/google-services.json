@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443038055580",
+    "firebase_url": "https://nodejs-stocks.firebaseio.com",
+    "project_id": "nodejs-stocks",
+    "storage_bucket": "nodejs-stocks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443038055580:android:2dc84fb8930a88e0a38159",
+        "android_client_info": {
+          "package_name": "andre.vicente.yahoostocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443038055580-etc3m1kk9p17ieu9c0d14il2gvurjis8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3_U6v88AKHwRY53lgRzzKqvlUZwG4bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443038055580-etc3m1kk9p17ieu9c0d14il2gvurjis8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
